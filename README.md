@@ -74,6 +74,20 @@ While you can implement these controls in any order, we recommend following this
 - [AWS Well-Architected Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/)
 - [AWS Identity and Access Management Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
+## ➡️ What's Next After Account Security?
+
+Once you've completed this account security baseline, the next step is to secure your workloads and applications:
+
+**🔗 [AWS Workload Security Baseline](https://github.com/rushealy-aws/aws-prescriptive-guidance-workload-security-step-by-step)**
+
+The workload security guide covers 15 additional controls including:
+- IAM roles for compute resources
+- Secrets management
+- Data encryption (EBS, RDS)
+- Network security and VPC endpoints
+- HTTPS enforcement and edge protection
+- Infrastructure as Code security practices
+
 ---
 
 **Ready to secure your AWS account?** Start with [ACCT.01 - Set Account-Level Contacts](./acct-01.md) and work your way through each control at your own pace.
