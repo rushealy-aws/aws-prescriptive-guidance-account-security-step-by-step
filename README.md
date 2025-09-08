@@ -1,4 +1,4 @@
-# AWS Security Baseline for New Customers
+# AWS Security Baseline for Early AWS Customers
 
 Welcome! This guide provides a friendly, step-by-step walkthrough of the AWS Prescriptive Guidance for securing your AWS account. Whether you're just starting with AWS or looking to strengthen your security posture, this guide will help you implement essential security controls.
 
